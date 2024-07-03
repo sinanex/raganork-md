@@ -80,7 +80,8 @@
         },
        "SESSION": {
             "description": "Your MD session",
-            "required": true
+            "required": true,
+	    "value":"Raganork~f13d37a2ef16b46e9bb104945ed9451d:713564737255755a3567593d"  
              
         }
     },
