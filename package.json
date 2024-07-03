@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "sinan-md",
   "version": "3.0.5",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "sinanex-md whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
@@ -14,8 +14,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "*_sinan_*",
+  "developer": "@sinanex",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
